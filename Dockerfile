@@ -1,0 +1,2 @@
+FROM centos
+ENV USER=GREG
