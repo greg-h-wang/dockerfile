@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/addon-resizer:1.7 
+FROM gcr.io/google_containers/kube-state-metrics:v1.2.0  
