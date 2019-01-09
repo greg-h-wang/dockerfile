@@ -1,1 +1,1 @@
-FROM  quay.io/coreos/kube-state-metrics:v1.3.0 
+FROM quay.io/coreos/flannel:v0.9.1-amd64 
